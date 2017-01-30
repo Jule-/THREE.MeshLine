@@ -28,6 +28,7 @@
     "url": "https://github.com/spite/THREE.MeshLine/issues"
   },
   "homepage": "https://github.com/spite/THREE.MeshLine#readme",
+  "registry": "npm",
   "dependencies": {
     "three": "^0.84.0"
   },
